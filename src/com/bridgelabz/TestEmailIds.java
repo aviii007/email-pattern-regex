@@ -4,7 +4,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * Program on User Registration Using Regex
+ * Program on Email pattern Using Regex
  *
  * @author : Ashvini Kanojia
  * @since : 01/04/2022
