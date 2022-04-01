@@ -3,6 +3,13 @@ package com.bridgelabz;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * Program on User Registration Using Regex
+ *
+ * @author : Ashvini Kanojia
+ * @since : 01/04/2022
+ * */
+
 public class TestEmailIds {
     static String[] validEmails = {"abc@yahoo.com", "abc-100@yahoo.com", "abc.100@yahoo.com",
             "abc111@abc.com", "abc-100@abc.net", "abc.100@abc.com.au",
